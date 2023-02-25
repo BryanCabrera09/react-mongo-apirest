@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-mongo-apirest/static/css/main.073c9b0a.css",
-    "main.js": "/react-mongo-apirest/static/js/main.3820e472.js",
+    "main.css": "/react-mongo-apirest/static/css/main.be9e2b08.css",
+    "main.js": "/react-mongo-apirest/static/js/main.abc40db0.js",
     "static/js/787.70a74fe9.chunk.js": "/react-mongo-apirest/static/js/787.70a74fe9.chunk.js",
-    "static/media/logo.svg": "/react-mongo-apirest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/primeicons.svg": "/react-mongo-apirest/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/react-mongo-apirest/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/react-mongo-apirest/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/react-mongo-apirest/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/react-mongo-apirest/static/media/primeicons.78172950b335ccdb94e2.woff2",
     "index.html": "/react-mongo-apirest/index.html",
-    "main.073c9b0a.css.map": "/react-mongo-apirest/static/css/main.073c9b0a.css.map",
-    "main.3820e472.js.map": "/react-mongo-apirest/static/js/main.3820e472.js.map",
+    "main.be9e2b08.css.map": "/react-mongo-apirest/static/css/main.be9e2b08.css.map",
+    "main.abc40db0.js.map": "/react-mongo-apirest/static/js/main.abc40db0.js.map",
     "787.70a74fe9.chunk.js.map": "/react-mongo-apirest/static/js/787.70a74fe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3820e472.js"
+    "static/css/main.be9e2b08.css",
+    "static/js/main.abc40db0.js"
   ]
 }
